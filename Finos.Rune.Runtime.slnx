@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Finos.Rune.Runtime/Finos.Rune.Runtime.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Finos.Rune.Runtime.Tests/Finos.Rune.Runtime.Tests.csproj" />
+  </Folder>
+</Solution>

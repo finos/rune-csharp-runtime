@@ -4,3 +4,10 @@
 .env.development.local
 .env.test.local
 .env.production.local
+
+bin/
+obj/
+.vs/
+.idea/
+*.user
+TestResults/

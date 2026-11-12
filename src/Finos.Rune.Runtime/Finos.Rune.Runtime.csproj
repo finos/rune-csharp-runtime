@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);CS1591</NoWarn>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>Finos.Rune.Runtime</PackageId>
+    <Title>Rune DSL runtime for .NET</Title>
+    <Description>Model-agnostic support for C# generated from Rune DSL: model/builders, injectable function and validation contracts, standardized JSON/XML, metadata, expressions, and post-processing.</Description>
+    <PackageTags>rune;rune-dsl;fintech;serialization;json;xml</PackageTags>
+  </PropertyGroup>
+
+</Project>
