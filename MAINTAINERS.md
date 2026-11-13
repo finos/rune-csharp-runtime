@@ -6,6 +6,10 @@ This file lists the maintainers of this repository.
 
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
+| asikilinda | Alex Sikilinda | Derivative Path Inc | asikilinda@derivativepath.com |
+| c-Renaud | Chris Renaud | Derivative Path Inc | crenaud@derivativepath.com |
+| harshal-dpi | Harshal Kulkarni | Derivative Path Inc | hkulkarni@derivativepath.com |
+| hgokhale-dp | Hamant Gokhale | Derivative Path Inc | hgokhale@derivativepath.com |
 
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
